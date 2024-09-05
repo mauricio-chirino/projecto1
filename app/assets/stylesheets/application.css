@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+
+ .ver_mas {
+  color: red;
+  font-weight: 700;
+}
+
